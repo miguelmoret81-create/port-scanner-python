@@ -1,13 +1,13 @@
-# 🛡️ Port Scanner em Python
+#Port Scanner em Python
 
-## 📖 Visão Geral
+##Visão Geral
 Este é um script de auditoria de rede desenvolvido em Python. Ele resolve o problema de identificar rapidamente quais portas TCP estão abertas em um determinado host (IP ou domínio), sendo uma ferramenta útil para os primeiros passos em testes de segurança e reconhecimento de infraestrutura.
 
-## 🛠 Tecnologias Utilizadas
+##Tecnologias Utilizadas
 - **Python 3** (Linguagem principal)
 - **Biblioteca Socket** (Comunicação de rede nativa)
 
-## ⚙️ Como Executar o Projeto
+##Como Executar o Projeto
 
 1. Clone o repositório:
 ```bash
